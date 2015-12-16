@@ -21,3 +21,6 @@ Software Information
 The software of ART uses [RT-Thread] RTOS as a platform, in which this platform, the application module feature is used to execute Arduino program in parallel. 
 
   [RT-Thread]: http://en.rt-thread.org
+  
+  RT-Thread is the clear origin of mean or actual time managing system that is shared by GPLv2 license. The first RT-Thread was established in China. It also works as device file system. On the other hand, you could also visit http://nootriment.com/ashwagandha/ to know about the distinct functions of RT-Thread as well. RT-Thread also assists in the accomplishment of appropriate multi scheduling as well. 
+  
